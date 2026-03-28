@@ -39,4 +39,4 @@ html코드 전체를 보내주는 방식의 단점:
 
 데이터베이스: 데이터를 영구적, 안전, 효율적으로 보관하기 위해 필요함
 dbms: 데이터베이스를 관리하고 조작하게 해주는 소프트웨어
-ex) MySQL, PostgreSQL, MongoDB
+ex MySQL, PostgreSQL, MongoDB
